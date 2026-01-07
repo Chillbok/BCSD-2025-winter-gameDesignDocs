@@ -11,10 +11,24 @@
             "id": "d8296cf6d82071c1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "Home"
             }
           }
         ]
@@ -209,8 +223,9 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "f9d4dddea6735345",
+  "active": "d8296cf6d82071c1",
   "lastOpenFiles": [
+    "Home.md",
     "0. Zettelkasten/2. 문헌 노트/리눅스에서 ssh 키 추가하는 법.md",
     "0. Zettelkasten/2. 문헌 노트/윈도우에서 ssh 키 생성하고 에이전트 추가하는 방법.md",
     "Data/Legacy/0. 임시노트/1. Doing/할 일 목록.md",
@@ -242,7 +257,6 @@
     "0. Zettelkasten/2. 문헌 노트/cpp 포인터 사용하는 법.md",
     "0. Zettelkasten/0. 데일리 노트(임시 노트)/2025-12-10.md",
     "Data/Template/날짜및시간.md",
-    "Data/Template/시간.md",
     "0. Zettelkasten/3. 구조 노트/게임 디렉터가 문제되었던 사례들.canvas",
     "0. Zettelkasten/3. 구조 노트/세계문학의이해 13주차 감상문.canvas",
     "0. Zettelkasten/3. 구조 노트/세계문학의이해 기말고사.canvas",
