@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "227a69e074367665",
+    "type": "split",
+    "children": [
+      {
+        "id": "e283a28a8f0953fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "652988959eef4dda",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "0. Zettelkasten/임시 노트.canvas",
+                "viewState": {
+                  "x": -207.8183557732305,
+                  "y": 10730.90834747471,
+                  "zoom": -0.6737958939755135
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "임시 노트"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b51cee54c78736cf",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e3b268d5d206f9e7",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "파일 탐색기"
+        }
+      },
+      {
+        "id": "f56cb204025db9b5",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "태그"
+        }
+      },
+      {
+        "id": "f7822c14119b75ba",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "모든 속성"
+        }
+      },
+      {
+        "id": "5232a61d09d5c6fd",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "북마크"
+        }
+      },
+      {
+        "id": "ee60d0e1b4aeef67",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "추천",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "검색"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "a04e2a0f1c4b6d32",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c125ff1727962087",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "2. PARA/2. Area/나는 ADHD인가.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "백링크"
+        }
+      },
+      {
+        "id": "be9c6f55d3f5f92f",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "2. PARA/1. Project/세계문학의이해 수업 노트.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "나가는 링크"
+        }
+      },
+      {
+        "id": "445ec13c5a24a064",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "2. PARA/1. Project/세계문학의이해 수업 노트.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "개요"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "random-note:무작위 노트 열기": false,
+      "audio-recorder:녹음 시작/정지": false,
+      "workspaces:작업 공간 레이아웃 관리": false,
+      "bases:새 베이스 생성하기": false,
+      "homepage:Open homepage": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "ee60d0e1b4aeef67",
+  "lastOpenFiles": [
+    "게임기획 추천도서.md",
+    "0. Zettelkasten/임시 노트.canvas",
+    "Data/Assets/Pasted image 20251230092003.png",
+    "사회학의이해_기말고사_핵심정리.md",
+    "무제.md",
+    "Home.md",
+    "2. PARA/2. Area/번뜩이는 아이디어.md",
+    "2. PARA/2. Area/대화법.md",
+    "2. PARA/2. Area/강아지와 친해지는 법 조사.md",
+    "2. PARA/1. Project/25년 2학기 경력개발이해와상담.md",
+    "2. PARA/1. Project/Csharp 사용법.md",
+    "2. PARA/2. Area/나는 ADHD인가.md",
+    "2. PARA/1. Project/세계문학의이해 수업 노트.md",
+    "0. 임시노트/25년 2학기 3주차 게임기획 스터디.md"
+  ]
+}
