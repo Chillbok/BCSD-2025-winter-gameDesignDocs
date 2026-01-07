@@ -44,6 +44,15 @@
     "isDone": "checkbox",
     "canvas": "text",
     "fleeting-note": "text",
-    "source": "multitext"
+    "source": "multitext",
+    "카테고리": "multitext",
+    "완료": "checkbox",
+    "기한": "date",
+    "상태": "multitext",
+    "담당자": "multitext",
+    "마일스톤": "multitext",
+    "완료 날짜": "date",
+    "우선순위": "multitext",
+    "시작 날짜": "date"
   }
 }

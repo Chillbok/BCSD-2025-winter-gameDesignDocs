@@ -1,0 +1,16 @@
+views:
+  - type: table
+    name: 표
+    filters:
+      and:
+        - file.folder == "할 일들"
+    order:
+      - 완료
+      - file.name
+      - 카테고리
+      - 기한
+    indentProperties: false
+    columnSize:
+      note.완료: 62
+      file.name: 281
+      note.카테고리: 272

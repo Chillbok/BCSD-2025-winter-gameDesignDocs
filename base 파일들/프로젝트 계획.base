@@ -1,0 +1,24 @@
+views:
+  - type: table
+    name: 표
+    filters:
+      and:
+        - file.folder == "기획서들"
+    order:
+      - 상태
+      - file.name
+      - 담당자
+      - 마일스톤
+      - 카테고리
+      - 시작 날짜
+      - 완료 날짜
+      - 우선순위
+    sort:
+      - property: 우선순위
+        direction: ASC
+    columnSize:
+      note.상태: 70
+      file.name: 237
+      note.카테고리: 205
+      note.시작 날짜: 148
+      note.완료 날짜: 142
