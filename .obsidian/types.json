@@ -53,6 +53,7 @@
     "마일스톤": "multitext",
     "완료 날짜": "date",
     "우선순위": "multitext",
-    "시작 날짜": "date"
+    "시작 날짜": "date",
+    "플레이어 방어력": "number"
   }
 }
