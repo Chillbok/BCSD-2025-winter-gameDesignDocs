@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "기획서들/기지(아지트) 시스템 기획.md",
+                "file": "기획서들/기지(아지트) 시스템ㄹ 기획.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "기지(아지트) 시스템 기획"
+              "title": "기지(아지트) 시스템ㄹ 기획"
             }
           }
         ],
@@ -256,8 +256,8 @@
   },
   "active": "2d8109052208f77b",
   "lastOpenFiles": [
+    "기획서들/구조물(포탑) 아이템 기획.md",
     "기획서들/기지(아지트) 시스템ㄹ 기획.md",
-    "기획서들/기지(아지트) 시스템 기획.md",
     "Home.md",
     "2025-02-13.md",
     "무제.md",
