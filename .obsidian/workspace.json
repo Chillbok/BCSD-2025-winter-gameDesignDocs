@@ -121,24 +121,10 @@
             "id": "d1f0488401d50846",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. Zettelkasten/2. 문헌 노트/cpp 포인터 사용하는 법.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "cpp 포인터 사용하는 법"
+              "title": "새 탭"
             }
           },
           {
@@ -198,14 +184,23 @@
               "icon": "lucide-list",
               "title": "세계문학의이해 기말고사 의 개요"
             }
+          },
+          {
+            "id": "ed3fe193f46f3180",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-sidebar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Full Calendar"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 642.5,
-    "collapsed": true
+    "width": 466.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,15 +215,19 @@
       "workspaces:작업 공간 레이아웃 관리": false,
       "bases:새 베이스 생성하기": false,
       "homepage:Open homepage": false,
-      "obsidian-git:Open Git source control": true
+      "obsidian-git:Open Git source control": true,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "d8296cf6d82071c1",
+  "active": "ed3fe193f46f3180",
   "lastOpenFiles": [
+    "2025-02-13.md",
+    "Home.md",
+    "무제.md",
+    "캘린더",
     "기획서들/ff.md",
     "할 일들/플레이어 사운드 이펙트 에셋 구하기.md",
     "할 일들",
-    "무제.md",
     "기획서들/플레이어 캐릭터 기획.md",
     "기획서들/패시브 아이템 기획.md",
     "기획서들/적 기획.md",
@@ -242,8 +241,6 @@
     "base 파일들/할 일 목록.base",
     "base 파일들/프로젝트 계획.base",
     "base 파일들",
-    "2025-02-13.md",
-    "Home.md",
     "할 일 목록.md",
     "0. Zettelkasten/2. 문헌 노트/리눅스에서 ssh 키 추가하는 법.md",
     "0. Zettelkasten/2. 문헌 노트/윈도우에서 ssh 키 생성하고 에이전트 추가하는 방법.md",
@@ -275,7 +272,6 @@
     "1. Projects",
     "0. Zettelkasten",
     "0. Zettelkasten/3. 구조 노트",
-    "0. Zettelkasten/1. 영구 노트",
     "Data/Legacy/0. 임시노트/Canvas/github 협업하는 법.canvas",
     "Data/Legacy/0. 임시노트/Canvas/견행학 13주차 수업 정리.canvas",
     "Data/Legacy/0. 임시노트/Canvas/25년 2학기 시스템 기획 스터디 3주차.canvas",
