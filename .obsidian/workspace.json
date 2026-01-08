@@ -54,22 +54,9 @@
               "icon": "lucide-file",
               "title": "플레이어 캐릭터 기획"
             }
-          },
-          {
-            "id": "5f2a4fde48133593",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "base 파일들/할 일 목록.base",
-                "viewName": "표"
-              },
-              "icon": "lucide-table",
-              "title": "할 일 목록"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -247,10 +234,10 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "5f2a4fde48133593",
+  "active": "cf4cf8653566d3a2",
   "lastOpenFiles": [
-    "기획서들/플레이어 캐릭터 기획.md",
     "base 파일들/할 일 목록.base",
+    "기획서들/플레이어 캐릭터 기획.md",
     "할 일들/플레이어 이동에 필요한 에셋 찾기.md",
     "할 일들/플레이어 피격 사운드 에셋 구하기.md",
     "할 일들/경험치 아이템 에셋 찾기.md",
