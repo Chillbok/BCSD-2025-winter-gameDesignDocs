@@ -124,16 +124,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ed3fe193f46f3180",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-sidebar-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "full-calendar-sidebar-view"
-            }
-          },
-          {
             "id": "00521e530822d5ac",
             "type": "leaf",
             "state": {
@@ -201,22 +191,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base 파일들/플레이어 데미지 계산 공식 시험표.base",
+                "file": "기획서들/플레이어 캐릭터 기획.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "플레이어 데미지 계산 공식 시험표 의 개요"
+              "title": "플레이어 캐릭터 기획 의 개요"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 466.5,
-    "collapsed": true
+    "width": 466.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -234,10 +223,10 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "cf4cf8653566d3a2",
+  "active": "d34890e3cd75bf75",
   "lastOpenFiles": [
-    "base 파일들/할 일 목록.base",
     "기획서들/플레이어 캐릭터 기획.md",
+    "base 파일들/할 일 목록.base",
     "할 일들/플레이어 이동에 필요한 에셋 찾기.md",
     "할 일들/플레이어 피격 사운드 에셋 구하기.md",
     "할 일들/경험치 아이템 에셋 찾기.md",
