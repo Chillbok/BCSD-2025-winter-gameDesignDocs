@@ -9,6 +9,7 @@ views:
       - file.name
       - 카테고리
       - 기한
+      - 관련 문서
     indentProperties: false
     columnSize:
       note.완료: 62
