@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "기획서들/기지(아지트) 시스템ㄹ 기획.md",
+                "file": "기획서들/기지(아지트) 시스템 기획.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "기지(아지트) 시스템ㄹ 기획"
+              "title": "기지(아지트) 시스템 기획"
             }
           },
           {
@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "기획서들/기지(아지트) 시스템ㄹ 기획.md",
+                "file": "기획서들/기지(아지트) 시스템 기획.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "기지(아지트) 시스템ㄹ 기획"
+              "title": "기지(아지트) 시스템 기획"
             }
           }
         ],
@@ -211,13 +211,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Zettelkasten/3. 구조 노트/세계문학의이해 기말고사.canvas",
+                "file": "기획서들/기지(아지트) 시스템 기획.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "세계문학의이해 기말고사 의 개요"
+              "title": "기지(아지트) 시스템 기획 의 개요"
             }
           },
           {
@@ -231,7 +231,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -257,8 +257,8 @@
   "active": "2d8109052208f77b",
   "lastOpenFiles": [
     "기획서들/구조물(포탑) 아이템 기획.md",
-    "기획서들/기지(아지트) 시스템ㄹ 기획.md",
     "Home.md",
+    "기획서들/기지(아지트) 시스템 기획.md",
     "2025-02-13.md",
     "무제.md",
     "캘린더",
