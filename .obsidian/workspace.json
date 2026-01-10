@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "기획서들/기지(아지트) 시스템 기획.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "기지(아지트) 시스템 기획"
             }
           },
           {
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "기획서들/기지(아지트) 시스템 기획.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Home 의 백링크"
+              "title": "기지(아지트) 시스템 기획 의 백링크"
             }
           },
           {
@@ -219,6 +219,9 @@
   },
   "active": "09e8f880090386a7",
   "lastOpenFiles": [
+    "기획서들/구조물(포탑) 아이템 기획.md",
+    "기획서들/기지(아지트) 시스템 기획.md",
+    "Home.md",
     "할 일들/플레이어 사운드 이펙트 에셋 구하기.md",
     "gitignore",
     "Data/Assets/프레젠테이션1.jpg",
@@ -246,13 +249,10 @@
     "Data/Assets/샷건 아이콘.png",
     "Data/Assets/방어력 별 피해량 감소 비율.png",
     "미확인 36633.crdownload",
-    "기획서들/기지(아지트) 시스템 기획.md",
-    "기획서들/구조물(포탑) 아이템 기획.md",
     "기획서들/맵(필드) 기획.md",
     "기획서들/무기 아이템 기획.md",
     "기획서들/적 기획.md",
     "기획서들/게임 조작법.md",
-    "Home.md",
     "기획서들/패시브 아이템 기획.md",
     "기획서들/HUD 디자인.md",
     "기획서들/플레이어 캐릭터 기획.md",
