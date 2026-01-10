@@ -14,4 +14,5 @@ views:
     columnSize:
       note.완료: 62
       file.name: 281
-      note.카테고리: 272
+      note.카테고리: 226
+      note.관련 문서: 444
