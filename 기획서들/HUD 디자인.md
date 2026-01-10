@@ -54,10 +54,16 @@
 
 * 연출
 
-* 샘플![[Pasted image 20260111031743.png]]![[Pasted image 20260111031752.png]]
+* 샘플![[Pasted image 20260111031743.png]]!![[Pasted image 20260111041718.png]]
 
 # 인게임
 *  구성 요소
+	* 플레이어 체력
+	* 무기, 아이템 목록
+	* 포탑 목록
+	* 현재 경험치 정보
+
+* 샘플![[Pasted image 20260111042319.png]]![[Pasted image 20260111044033.png]]
 
 
 # 일시정지
@@ -67,7 +73,7 @@
 	* 게임 종료 버튼
 
 * 연출
-* 샘플![[Pasted image 20260111031912.png]]![[Pasted image 20260111031917.png]]![[Pasted image 20260111031922.png]]
+* 샘플![[Pasted image 20260111031912.png]]![[Pasted image 20260111031917.png]]!![[Pasted image 20260111041619.png]]
 
 # 게임종료
 * 구성 요소
