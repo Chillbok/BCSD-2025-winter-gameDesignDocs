@@ -14,6 +14,8 @@ views:
       - 완료 날짜
       - 우선순위
     sort:
+      - property: 상태
+        direction: DESC
       - property: 우선순위
         direction: ASC
     columnSize:

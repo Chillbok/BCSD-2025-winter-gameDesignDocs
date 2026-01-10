@@ -1,0 +1,25 @@
+properties:
+  note.아이콘:
+    displayName: 아이콘
+views:
+  - type: cards
+    name: 표
+    filters:
+      and:
+        - file.folder == "Data/무기 문서"
+    order:
+      - file.name
+      - 아이콘
+    sort: []
+    columnSize:
+      file.name: 89
+      note.아이콘: 146
+      note.개요: 468
+    image: note.아이콘
+    imageFit: contain
+  - type: cards
+    name: 카드
+    filters:
+      and:
+        - file.folder == "Data/무기 문서"
+    imageFit: contain
