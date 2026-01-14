@@ -3,7 +3,7 @@ views:
     name: 표
     filters:
       and:
-        - file.folder == "기획서들"
+        - file.folder.contains("기획서들")
     order:
       - 상태
       - file.name
